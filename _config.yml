@@ -9,7 +9,7 @@
 title: "Help Center"
 email: contact@agileengineeringpodcast.com
 description: "Simple and flexible Jekyll theme for help center."
-baseurl: ""
+baseurl: "/handbook"
 url: "https://agileengineeringpodcast.github.io/handbook/"
 twitter_username: "agileengpodcast"
 github_username:  "agileengineeringpodcast"
