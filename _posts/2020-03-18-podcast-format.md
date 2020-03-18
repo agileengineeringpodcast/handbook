@@ -1,14 +1,26 @@
 ---
 layout: post
-title: "Recording etiquette"
-description: "How do we act when recording the podcast"
+title: "Podcast format/Structure"
+description: "This is our general structure for the Agile Engineering Podcast. How our episodes are setup for the smooth and consistent format you've come to love"
 date:   2020-03-18
 categories: etiquette soft-skills recording
 by: 'Liam Gulliver'
-icon: 'users'
+icon: 'headphones'
 questions:
-  - question: 'Speaking'
-    answer: 'Talking over each other in a meeting or even in person sucks. It sucks even more on a podcast when you have to listen to it. The way we work is to raise a hand if you want to speak, raise your hand.'
-  - question: 'Addressing other people on the podcast'
-    answer: 'When addressing others, try to avoid saying "you" and use names instead. For example, "Jonathan, what do you think?" is better than just purely saying "what do you think?"'   
+  - question: 'Cold open - <= 5 minutes'
+    answer: 'Our hosts are always busy, speaking at various conferences, writing various articles and books as well as running events themselves. A cold open is the perfect place for this. Should sponsorship arise, this is where we will talk about that too. It should always be Liam or Liam + one other host, ideally recorded before or after the episode recording to reduce the amount to do in one session. We always end it with "Jonathan, roll the thing."'
+  - question: 'Intro'
+    answer: 'Our jazzy beats provided by <> run.'   
+  - question: 'Welcome to the episode - <= 3 minutes'
+    answer: 'A scripted open to the episode, usually done by Liam:
+    
+    Welcome to the Agile Engineering Podcast, episode <number of the episode>. In this episode, we are going to be discussing <selected subject>. Joining me as always are my co-hosts; Jonathan Relf (pause for JR to say hello), Louise Paling (pause for LP to say hello), Mica Bell (pause for MB to say hello) and Pete Gallagher (pause for PG to say hello). Let us begin by talking about what we have learned since the last episode.'   
+  - question: 'Segment: Learnings between episodes - <= 15 minutes'
+    answer: 'This is at present, our only regular segment. Up to 3 of the hosts, nominated ahead of the recording, talk about something new they have learned or a trend they have seen across the software industry.'   
+  - question: 'Main topic - ~45 Minutes'
+    answer: 'Our hosts discuss the main subject selected for this episode, along with our guest if present.'
+  - question: 'Key takeaways - <= 10 minutes'
+    answer: 'Following the main topic, our hosts discuss key takeaways from the discussion and provide a conclusion to the listener'
+  - question: 'Outro'
+    answer: 'Our jazzy beats provided by <> run.'   
 ---
