@@ -7,12 +7,12 @@
 
 # Site settings
 title: "Help Center"
-email: gusquinalha@gmail.com
+email: contact@agileengineeringpodcast.com
 description: "Simple and flexible Jekyll theme for help center."
 baseurl: "/jekyll-help-center-theme"
-url: "http://quinalha.me"
-twitter_username: "gustavoquinalha"
-github_username:  "gustavoquinalha"
+url: "https://agileengineeringpodcast.github.io/handbook/"
+twitter_username: "agileengpodcast"
+github_username:  "agileengineeringpodcast"
 color_theme:  "#0081ff"
 color_text:  "#fff"
 language:  "en"
