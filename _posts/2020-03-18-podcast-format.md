@@ -2,7 +2,7 @@
 layout: post
 title: "Podcast format/Structure"
 description: "This is our general structure for the Agile Engineering Podcast. How our episodes are setup for the smooth and consistent format you've come to love"
-date:   2020-03-18
+date:   2020-03-18 16:35:00
 categories: etiquette soft-skills recording
 by: 'Liam Gulliver'
 icon: 'headphones'
