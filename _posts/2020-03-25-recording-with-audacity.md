@@ -15,25 +15,26 @@ First of all, you're going to need to download and install Audacity.
 * [Windows installer](https://www.fosshub.com/Audacity.html?dwl=audacity-win-2.3.3.exe)
 * [Mac installer](https://www.fosshub.com/Audacity.html?dwl=audacity-macos-2.3.3.dmg)
 
+
 ## Setup Audacity For Recording
 
 ### Ensure your microphone is selected
 
 Select the microphone you're going to record with from the input drop-down in Audacity.
 
-![Input selection](/post-images/audacity-mic-select.png)
+![Input selection](/assets/img/post-images/audacity-mic-select.png)
 
 ### Do a test recording
 
 Hit the red record button and say a few sentences into the microphone to test you're configured and ready to go. Press the stop (the square) button when you want to stop recording.
 
-![Recording test 1](/post-images/recording-example.png)
+![Recording test 1](/assets/img/post-images/recording-example.png)
 
 Use this to test the positioning of your microphone. 
 
 In the above example, playing back sounded like I was too far away.
 
-![Face distance](/post-images/face-distance.jpg)
+![Face distance](/assets/img/post-images/face-distance.jpg)
 
 Adjust the distance and repeate recording and playback until you sound clear and "close".
 
