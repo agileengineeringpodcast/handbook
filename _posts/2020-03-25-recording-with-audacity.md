@@ -40,6 +40,20 @@ Adjust the distance and repeate recording and playback until you sound clear and
 
 ### You're good to go!
 
-Once you're happy with it, you're good to go. When we're already, a countdown will begin and when we hit zero, hit that record button!
+Once you're happy with it, you're good to go. When we're all ready, a countdown will begin and when we hit zero, hit that record button!
 
 Be sure to record a few seconds of silence at the beginning for post-processing so we can work out noise profiles to do noise reduction after recording!
+
+## Saving the audio
+
+For best quality, saving as an uncompressed format is ideal.
+
+We save it as a **WAV**. To do this in Audacity go to **File > Export > Export a WAV**.
+
+![Export as WAV](../assets/img/post-images/export-as-wav.png)
+
+Rename the file as **yourname.wav** and save it as **WAV (Microsoft) signed 16-bit PCM**.
+
+![Export as File Type](../assets/img/post-images/export-file-type.png)
+
+Then send it over Slack to Jonathan.
