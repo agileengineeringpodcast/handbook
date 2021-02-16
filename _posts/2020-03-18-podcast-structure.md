@@ -31,4 +31,4 @@ Welcome to the Agile Engineering Podcast, episode [number of the episode]. In th
 
 ## Scripted Close
 
-Thank you for listening to the Agile Engineering Podcast. Let us know your thoughts on [chosen subject] or suggest topics for discussion by getting in touch with us on Twitter at @AgileEngPodcast, our website agileengineeringpodcast.com or contribute directly on our github repo github.com/agileengineeringpodcast.
+Thank you for listening to the Agile Engineering Podcast. Let us know your thoughts on [chosen subject] or suggest topics for discussion by getting in touch with us on Twitter at @AgileEngPodcast or our website agileengineeringpodcast.com.
